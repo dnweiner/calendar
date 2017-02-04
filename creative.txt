@@ -1,11 +1,5 @@
 creative.txt
 
-Danny Weiner - 435140
-Emily Coco - 429297
-
-http://ec2-52-33-218-205.us-west-2.compute.amazonaws.com/~ecoco/module5/calendar.html
-http://ec2-54-213-147-183.us-west-2.compute.amazonaws.com/~dnweiner/module5/calendar.html
-
 For the creative portion, we did added a number of features, varying in size, including:
 
 -when adding an event, changing the date field highlights the appropriate square on the grid, assuming you're viewing the month in question
